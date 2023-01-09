@@ -1,0 +1,10 @@
+:quickstart-project-name: eunhokim-microservice-on-lambda
+:quickstart-github-org: unknown
+:partner-product-name: Microservice-on-Lambda
+:partner-product-short-name: Microservice-on-Lambda
+:partner-company-name: EunhoKim
+:doc-month: January
+:doc-year: 2023
+:deployment_time: 5 minutes
+:default_deployment_region: us-east-1
+//:private_repo:
